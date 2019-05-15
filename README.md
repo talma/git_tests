@@ -1,2 +1,2 @@
 #Git tests
-Add commit
+Changed commit
